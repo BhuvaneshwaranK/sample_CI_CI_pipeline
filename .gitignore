@@ -1,2 +1,4 @@
 tm_demo/
+data/
 __pycache__/
+saved_models/
