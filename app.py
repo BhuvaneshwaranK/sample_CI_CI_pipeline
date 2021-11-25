@@ -12,7 +12,7 @@ app = Flask(__name__, static_folder=static_dir,template_folder=template_dir)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-    return "hello world"
+    return "hello world!"
 
 if __name__ == "__main__":
     # app.run(host='0.0.0.0', port=5000, debug=True)
