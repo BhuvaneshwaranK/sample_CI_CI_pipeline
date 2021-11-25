@@ -1,9 +1,3 @@
 Flask
-wheel
 gunicorn
-joblib
-mlflow
-numpy
-pandas
-scipy
-sklearn
+
